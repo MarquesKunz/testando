@@ -1,4 +1,5 @@
 Etapas do código
 
-print("Vamos desenvolver um código aberto")
+
 print("Esse código vai servir para mostra algo")
+print ("tetaol")
